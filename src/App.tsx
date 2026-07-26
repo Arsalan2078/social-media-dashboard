@@ -1,5 +1,7 @@
 export default function App() {
   return (
-    <div>App</div>
-  )
+    <div>
+      <h1>Social Media Dashboard</h1>
+    </div>
+  );
 }
